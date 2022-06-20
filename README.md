@@ -1,1 +1,9 @@
-# Iris_EDA_Model_Comparison
+## 🌺 Iris EDA + Model Comparison
+### Technologies
+* Python
+* Scikit-Learn
+* Pandas
+* Seaborn
+* Matplotlib
+* Numpy
+* Jupyter
