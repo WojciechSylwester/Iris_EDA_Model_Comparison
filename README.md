@@ -9,6 +9,3 @@ The goal of this project is to classify the Iris species. To achieve this, I und
 * Matplotlib
 * Numpy
 * Jupyter
-### Exploratory Data Analysis
-### Baseline Models
-### Error Analysis
