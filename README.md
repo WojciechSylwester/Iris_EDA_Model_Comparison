@@ -63,17 +63,22 @@ This has resulted in higher performance of the models.
 For a few models, learning curves indicate on a good fit. However, I can make it better during hyperparameter tuning by decrease the bias.
 Next two models indicate an overfitting. In order to improve performance, high variance should be reduced.
 #### Good Fit
-![image](https://user-images.githubusercontent.com/61654792/176553594-3a302ab5-3b3e-4bbe-a227-59a6f487c730.png)
+
+![image](https://user-images.githubusercontent.com/61654792/176555878-d3e6f4f2-6569-4926-b923-9f360d008d2d.png)
+
 
 #### Overfitting
-![image](https://user-images.githubusercontent.com/61654792/176553631-3e9ef87b-8ada-4081-b08b-d2ccb94bf1b6.png)
+![image](https://user-images.githubusercontent.com/61654792/176555802-b5a5a3f5-6c60-406c-a010-a697b78ae39e.png)
 
 
 ## Hyperparameter Tuning
 
 Almost every model achieves a better validation score.
+
 On the left - model with hyperparameter tuning.
+
 On the right - default model.
 
-![image](https://user-images.githubusercontent.com/61654792/176554958-16cabaf3-b718-4032-81ec-a32b83c1dca1.png)
+![image](https://user-images.githubusercontent.com/61654792/176555636-b496471f-a785-437d-bcb8-5dc288fe37e0.png)
+
 
