@@ -20,7 +20,7 @@ https://www.kaggle.com/datasets/uciml/iris
 Boxplots shows that one of the three species has different Sepal values.
 I confirmed that in plot of relationship between the petal width and length
 
-![image](https://user-images.githubusercontent.com/61654792/176550340-14404054-0770-4f0f-9d39-63596ba66956.png)
+![image](https://user-images.githubusercontent.com/61654792/176556227-6f345a6a-3916-46f4-8c77-fd8bce2cae77.png)
 
 ## Baseline Models
 In this section I train a few different models with their default settings. After that I compare accuracy of these models.
