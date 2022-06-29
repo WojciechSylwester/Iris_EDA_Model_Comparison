@@ -60,4 +60,20 @@ I make new features by raise to the third power Petal features and divide them b
 This has resulted in higher performance of the models.
 
 ## Learning Curve
+For a few models, learning curves indicate on a good fit. However, I can make it better during hyperparameter tuning by decrease the bias.
+Next two models indicate an overfitting. In order to improve performance, high variance should be reduced.
+#### Good Fit
+![image](https://user-images.githubusercontent.com/61654792/176553594-3a302ab5-3b3e-4bbe-a227-59a6f487c730.png)
+
+#### Overfitting
+![image](https://user-images.githubusercontent.com/61654792/176553631-3e9ef87b-8ada-4081-b08b-d2ccb94bf1b6.png)
+
+
 ## Hyperparameter Tuning
+
+Almost every model achieves a better validation score.
+On the left - model with hyperparameter tuning.
+On the right - default model.
+
+![image](https://user-images.githubusercontent.com/61654792/176554958-16cabaf3-b718-4032-81ec-a32b83c1dca1.png)
+
