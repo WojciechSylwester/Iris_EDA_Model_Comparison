@@ -11,7 +11,7 @@ The goal of this project is to classify the Iris species. To achieve this, I und
 * Numpy
 * Jupyter
 ## Get Data
-Dataset derives from the Kaggle dataset about Iris Species.
+Dataset derives from Kaggle dataset about Iris Species.
 The dataset contains data about the length and width of sepal and petal.
 
 https://www.kaggle.com/datasets/uciml/iris
